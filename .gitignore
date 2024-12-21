@@ -1,0 +1,25 @@
+# ビルド出力
+/lib
+
+# 依存関係
+/node_modules
+
+# npm関連
+*.log
+npm-debug.log*
+.npm
+
+# テストカバレッジ
+/coverage
+
+# IDE/エディタ関連
+.idea
+.vscode
+*.swp
+*.swo
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+*.tgz
